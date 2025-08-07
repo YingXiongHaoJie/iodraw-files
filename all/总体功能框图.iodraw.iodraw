@@ -104,19 +104,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-23" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;外部接口J30J-51TJL（TTL，RS232，RS422）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="140" width="270" height="30" as="geometry" />
+          <mxGeometry x="500" y="140" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-25" value="RS422 PHY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="205" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.139;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="moXH8r8ipRpQBd_Zt77R-25" target="moXH8r8ipRpQBd_Zt77R-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.139;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="534.43" y="205" as="sourcePoint" />
+            <mxPoint x="535.5699999999999" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-30" value="RS232 PHY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592.5" y="205" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="moXH8r8ipRpQBd_Zt77R-30" target="moXH8r8ipRpQBd_Zt77R-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="624.8" y="205" as="sourcePoint" />
+            <mxPoint x="630.1600000000001" y="169.34000000000003" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.844;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.904;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -134,7 +140,7 @@
         <mxCell id="moXH8r8ipRpQBd_Zt77R-35" value="EMMC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.118;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="moXH8r8ipRpQBd_Zt77R-6" target="moXH8r8ipRpQBd_Zt77R-1">
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.118;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="moXH8r8ipRpQBd_Zt77R-6" target="moXH8r8ipRpQBd_Zt77R-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
