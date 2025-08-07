@@ -1,6 +1,6 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="sCqV6Sbkzv-pMmKGyqXW">
-    <mxGraphModel dx="691" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,23 +150,6 @@
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-35" value="QSPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="180" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.118;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" target="moXH8r8ipRpQBd_Zt77R-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530.0285714285715" y="450" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.118;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="614.76" y="450" as="sourcePoint" />
-            <mxPoint x="614.76" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.118;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="709.76" y="450" as="sourcePoint" />
-            <mxPoint x="709.76" y="400" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="moXH8r8ipRpQBd_Zt77R-41" target="moXH8r8ipRpQBd_Zt77R-42">
           <mxGeometry relative="1" as="geometry" />
