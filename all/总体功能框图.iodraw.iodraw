@@ -46,6 +46,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="moXH8r8ipRpQBd_Zt77R-1" target="moXH8r8ipRpQBd_Zt77R-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;ZYNQ&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;xc7z100&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="260" width="255" height="140" as="geometry" />
         </mxCell>
@@ -111,6 +114,12 @@
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-30" value="RS232 PHY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592.5" y="205" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="moXH8r8ipRpQBd_Zt77R-30" target="moXH8r8ipRpQBd_Zt77R-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.844;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="moXH8r8ipRpQBd_Zt77R-1" target="moXH8r8ipRpQBd_Zt77R-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
