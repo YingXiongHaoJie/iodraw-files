@@ -129,7 +129,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-30" value="RS232 PHY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="592.5" y="205" width="70" height="30" as="geometry" />
+          <mxGeometry x="585" y="205" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -147,7 +147,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-48" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="moXH8r8ipRpQBd_Zt77R-33">
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-48" value="TTL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="moXH8r8ipRpQBd_Zt77R-33">
           <mxGeometry x="-0.1145" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -187,6 +187,9 @@
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-43" value="UART" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="310" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-49" value="RS232 PHY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="205" width="55" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
