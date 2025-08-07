@@ -226,6 +226,14 @@
         <mxCell id="moXH8r8ipRpQBd_Zt77R-69" value="DDR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="180" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="moXH8r8ipRpQBd_Zt77R-1" target="moXH8r8ipRpQBd_Zt77R-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="628" y="250" />
+              <mxPoint x="369" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
