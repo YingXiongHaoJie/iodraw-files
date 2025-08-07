@@ -223,7 +223,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-74" value="巴伦" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-74" value="以太网PHY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="440" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
