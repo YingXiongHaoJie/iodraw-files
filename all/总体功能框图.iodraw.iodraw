@@ -162,13 +162,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-41" value="JTAG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="347.5" y="270" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-42" value="J30J-15TJL&lt;div&gt;调试接口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240.28" y="280" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-43" value="JTAG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="347.5" y="310" width="55" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
