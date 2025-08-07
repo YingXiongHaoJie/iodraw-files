@@ -64,9 +64,6 @@
         <mxCell id="moXH8r8ipRpQBd_Zt77R-6" value="DDR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-8" value="RGMII" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="449.99689655172443" y="220" as="geometry" />
-        </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-10" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="140" width="70" height="40" as="geometry" />
         </mxCell>
@@ -154,9 +151,6 @@
             <mxPoint x="709.76" y="450" as="sourcePoint" />
             <mxPoint x="709.76" y="400" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-39" value="RGMII" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="459.99428571428575" y="300" as="geometry" />
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="moXH8r8ipRpQBd_Zt77R-41" target="moXH8r8ipRpQBd_Zt77R-42">
           <mxGeometry relative="1" as="geometry" />
