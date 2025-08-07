@@ -46,8 +46,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="moXH8r8ipRpQBd_Zt77R-1" target="moXH8r8ipRpQBd_Zt77R-30">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="moXH8r8ipRpQBd_Zt77R-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615.0238095238094" y="260.66" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="moXH8r8ipRpQBd_Zt77R-1" target="moXH8r8ipRpQBd_Zt77R-43">
           <mxGeometry relative="1" as="geometry">
@@ -129,12 +131,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-30" value="RS232 PHY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="205" width="70" height="30" as="geometry" />
+          <mxGeometry x="580" y="205.66" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="624.8" y="205" as="sourcePoint" />
-            <mxPoint x="630.1600000000001" y="169.34000000000003" as="targetPoint" />
+            <mxPoint x="612.3" y="205.66" as="sourcePoint" />
+            <mxPoint x="617.6600000000001" y="170.00000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.844;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.904;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
