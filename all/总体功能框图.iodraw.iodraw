@@ -137,7 +137,7 @@
         <mxCell id="moXH8r8ipRpQBd_Zt77R-34" value="EMMC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-35" value="EMMC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-35" value="QSPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.118;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="moXH8r8ipRpQBd_Zt77R-6" target="moXH8r8ipRpQBd_Zt77R-1">
@@ -151,8 +151,8 @@
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.118;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="470" as="sourcePoint" />
-            <mxPoint x="550" y="420" as="targetPoint" />
+            <mxPoint x="709.76" y="450" as="sourcePoint" />
+            <mxPoint x="709.76" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
