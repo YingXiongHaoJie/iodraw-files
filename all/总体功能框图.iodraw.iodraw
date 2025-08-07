@@ -263,11 +263,11 @@
         <mxCell id="moXH8r8ipRpQBd_Zt77R-81" value="巴伦" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="360" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-93" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="900" height="490" as="geometry" />
+        </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-82" value="巴伦" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="394" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-93" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
