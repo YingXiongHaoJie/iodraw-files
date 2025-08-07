@@ -41,7 +41,7 @@
         <mxCell id="moXH8r8ipRpQBd_Zt77R-10" value="以太网PHY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339.79" y="260" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-11" value="J30J-12TJL&lt;div&gt;网络接口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-11" value="12V输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="239.79" y="260" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
