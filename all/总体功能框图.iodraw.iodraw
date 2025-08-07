@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-93" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="900" height="490" as="geometry" />
+        </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="moXH8r8ipRpQBd_Zt77R-1" target="moXH8r8ipRpQBd_Zt77R-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -262,9 +265,6 @@
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-81" value="巴伦" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="360" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-93" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="70" width="900" height="490" as="geometry" />
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-82" value="巴伦" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="394" width="40" height="20" as="geometry" />
