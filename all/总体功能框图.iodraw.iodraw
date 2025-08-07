@@ -8,7 +8,10 @@
           <mxGeometry x="500" y="260" width="255" height="140" as="geometry" />
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-2" value="以太网PHY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="340" width="70" height="40" as="geometry" />
+          <mxGeometry x="380" y="350" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-3" value="J30J-12TJL&lt;div&gt;网络接口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
