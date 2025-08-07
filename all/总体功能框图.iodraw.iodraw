@@ -33,7 +33,7 @@
         <mxCell id="moXH8r8ipRpQBd_Zt77R-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="moXH8r8ipRpQBd_Zt77R-1" target="moXH8r8ipRpQBd_Zt77R-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="moXH8r8ipRpQBd_Zt77R-17">
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-18" value="SPI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="moXH8r8ipRpQBd_Zt77R-17">
           <mxGeometry x="-0.0506" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -69,7 +69,7 @@
           <mxGeometry x="850" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-14" value="HMC7044" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="160" width="110" height="70" as="geometry" />
+          <mxGeometry x="875" y="200" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
