@@ -103,7 +103,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="moXH8r8ipRpQBd_Zt77R-23" value="外部接口（TTL，RS232，RS422）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="moXH8r8ipRpQBd_Zt77R-23" value="外部接口J30J-51TJL（TTL，RS232，RS422）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="140" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="moXH8r8ipRpQBd_Zt77R-25" value="RS422 PHY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
