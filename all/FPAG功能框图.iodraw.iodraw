@@ -52,6 +52,38 @@
         <mxCell id="9F1PfbBoz4WEjQxInnzS-16" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;VIO控制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="540" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="9F1PfbBoz4WEjQxInnzS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="9F1PfbBoz4WEjQxInnzS-21" target="9F1PfbBoz4WEjQxInnzS-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F1PfbBoz4WEjQxInnzS-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="9F1PfbBoz4WEjQxInnzS-21" target="9F1PfbBoz4WEjQxInnzS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F1PfbBoz4WEjQxInnzS-21" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;MUX&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1047" y="410" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9F1PfbBoz4WEjQxInnzS-22" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;DAC发射&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;LVDS接口&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1047" y="540" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9F1PfbBoz4WEjQxInnzS-23" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;SRIO指令数据传输接口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="410" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9F1PfbBoz4WEjQxInnzS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="9F1PfbBoz4WEjQxInnzS-25" target="9F1PfbBoz4WEjQxInnzS-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F1PfbBoz4WEjQxInnzS-25" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;32bit&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;DDRIII-SDRAM接口程序&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1307" y="405" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9F1PfbBoz4WEjQxInnzS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F1PfbBoz4WEjQxInnzS-27" target="9F1PfbBoz4WEjQxInnzS-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1387" y="510" />
+              <mxPoint x="1152" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9F1PfbBoz4WEjQxInnzS-27" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;VIO控制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1307" y="540" width="160" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
