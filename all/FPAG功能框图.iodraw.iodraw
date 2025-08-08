@@ -93,8 +93,8 @@
         <mxCell id="9F1PfbBoz4WEjQxInnzS-30" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;6组4X SRIO 数据传输接口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="200" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9F1PfbBoz4WEjQxInnzS-33" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;VIO控制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="550" width="160" height="70" as="geometry" />
+        <mxCell id="9F1PfbBoz4WEjQxInnzS-33" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;VIO&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1307" y="210" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
