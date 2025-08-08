@@ -14,7 +14,7 @@
           <mxGeometry x="300" y="410" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9F1PfbBoz4WEjQxInnzS-3" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;DAC发射&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;LVDS接口&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="570" width="140" height="70" as="geometry" />
+          <mxGeometry x="300" y="540" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9F1PfbBoz4WEjQxInnzS-4" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;SRIO指令数据传输接口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="410" width="140" height="60" as="geometry" />
@@ -28,6 +28,9 @@
         </mxCell>
         <mxCell id="9F1PfbBoz4WEjQxInnzS-7" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;DDS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9F1PfbBoz4WEjQxInnzS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F1PfbBoz4WEjQxInnzS-9" target="9F1PfbBoz4WEjQxInnzS-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9F1PfbBoz4WEjQxInnzS-9" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;6组4X SRIO 数据传输接口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="200" width="140" height="60" as="geometry" />
