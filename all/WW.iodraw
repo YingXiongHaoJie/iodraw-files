@@ -243,7 +243,7 @@
         <mxCell id="c__QX2BszkjMsdDTUN5y-3" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;佳点集生成初始种群&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="290" width="305" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c__QX2BszkjMsdDTUN5y-4" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;佳点集生成初始种群&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c__QX2BszkjMsdDTUN5y-4" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;精英反向学习获得&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="390" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
