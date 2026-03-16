@@ -281,6 +281,9 @@
         <mxCell id="c__QX2BszkjMsdDTUN5y-25" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;计算适应度并排序获得最优个体及位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="950" width="430" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="c__QX2BszkjMsdDTUN5y-26" value="自适应爬山法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
