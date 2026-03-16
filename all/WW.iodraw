@@ -250,19 +250,16 @@
           <mxGeometry x="190" y="430" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-6" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;更新发现者位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="540" width="130" height="80" as="geometry" />
+          <mxGeometry x="120" y="550" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-8" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;更新追随者位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="545" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c__QX2BszkjMsdDTUN5y-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c__QX2BszkjMsdDTUN5y-9" target="c__QX2BszkjMsdDTUN5y-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-9" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;更新警戒者位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="580" width="130" height="80" as="geometry" />
+          <mxGeometry x="480" y="545" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-11" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;对麻雀位置进行t分布变异，相较变异前优秀则更新&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="730" width="310" height="60" as="geometry" />
+          <mxGeometry x="187.5" y="670" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-13" value="阈值判断&lt;div&gt;（迭代次数或收敛精度）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="720" width="240" height="80" as="geometry" />
