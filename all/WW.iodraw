@@ -243,9 +243,6 @@
         <mxCell id="c__QX2BszkjMsdDTUN5y-3" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;佳点集生成初始种群&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="230" width="305" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c__QX2BszkjMsdDTUN5y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c__QX2BszkjMsdDTUN5y-4" target="c__QX2BszkjMsdDTUN5y-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-4" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;精英反向学习获得最优种群&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="330" width="310" height="60" as="geometry" />
         </mxCell>
@@ -263,16 +260,6 @@
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-11" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;对麻雀位置进行t分布变异，相较变异前优秀则更新&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="730" width="310" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="c__QX2BszkjMsdDTUN5y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c__QX2BszkjMsdDTUN5y-13" target="c__QX2BszkjMsdDTUN5y-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="60" y="890" />
-              <mxPoint x="60" y="410" />
-              <mxPoint x="345" y="410" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-13" value="阈值判断&lt;div&gt;（迭代次数或收敛精度）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="850" width="240" height="80" as="geometry" />
