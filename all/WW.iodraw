@@ -230,7 +230,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2_VuuBVSHYEdUo9EoDSr" name="第 2 页">
-    <mxGraphModel dx="1002" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1217" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,6 +301,9 @@
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-32" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;输出结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="945" y="490" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c__QX2BszkjMsdDTUN5y-33" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;更新追随者位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="820" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
