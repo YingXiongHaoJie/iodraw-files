@@ -297,6 +297,12 @@
         <mxCell id="c__QX2BszkjMsdDTUN5y-36" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;基于t分布的麻雀位置扰动&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="760" width="390" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="c__QX2BszkjMsdDTUN5y-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="100" width="540" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="c__QX2BszkjMsdDTUN5y-38" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;基于t分布的麻雀位置扰动&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="340" width="390" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
