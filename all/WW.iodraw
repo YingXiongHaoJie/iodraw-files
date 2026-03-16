@@ -276,13 +276,16 @@
           <mxGeometry x="210" y="730" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-13" value="阈值判断&lt;div&gt;（迭代次数或收敛精度）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="850" width="240" height="80" as="geometry" />
+          <mxGeometry x="230" y="820" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-25" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;计算适应度并排序获得最优个体及位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="950" width="430" height="190" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-26" value="自适应爬山法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="960" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="860" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c__QX2BszkjMsdDTUN5y-27" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;初始化算法参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="305" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
