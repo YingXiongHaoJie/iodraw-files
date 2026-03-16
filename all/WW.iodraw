@@ -230,7 +230,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2_VuuBVSHYEdUo9EoDSr" name="第 2 页">
-    <mxGraphModel dx="603" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1491" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,7 +280,7 @@
           <mxGeometry x="980" y="840" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-27" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;正交邻域探测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="740" width="170" height="50" as="geometry" />
+          <mxGeometry x="1210" y="780" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-28" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;谱峰适应度评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="700" width="210" height="50" as="geometry" />
@@ -303,8 +303,8 @@
         <mxCell id="c__QX2BszkjMsdDTUN5y-39" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;位置评估与边界控制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="875" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c__QX2BszkjMsdDTUN5y-40" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;正交邻域探测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="810" width="170" height="50" as="geometry" />
+        <mxCell id="c__QX2BszkjMsdDTUN5y-40" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;参数初始化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="780" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
