@@ -278,6 +278,9 @@
         <mxCell id="c__QX2BszkjMsdDTUN5y-13" value="阈值判断&lt;div&gt;（迭代次数或收敛精度）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="850" width="240" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="c__QX2BszkjMsdDTUN5y-25" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;计算适应度并排序获得最优个体及位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="810" width="310" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
