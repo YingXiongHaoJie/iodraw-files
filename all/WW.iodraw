@@ -267,6 +267,11 @@
         <mxCell id="c__QX2BszkjMsdDTUN5y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c__QX2BszkjMsdDTUN5y-13" target="c__QX2BszkjMsdDTUN5y-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="10" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="890" />
+              <mxPoint x="60" y="410" />
+              <mxPoint x="345" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-13" value="阈值判断&lt;div&gt;（迭代次数或收敛精度）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
