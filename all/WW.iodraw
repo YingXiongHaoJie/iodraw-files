@@ -235,7 +235,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="c__QX2BszkjMsdDTUN5y-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="210" width="550" height="200" as="geometry" />
+          <mxGeometry x="70" y="210" width="560" height="270" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-38" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;种群初始化&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="180" width="40" height="260" as="geometry" />
@@ -253,7 +253,7 @@
           <mxGeometry x="190" y="230" width="305" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-4" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;精英反向学习获得最优种群&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="330" width="310" height="60" as="geometry" />
+          <mxGeometry x="640" y="350" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-5" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;计算适应度并排序获得最优个体及位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="260" width="310" height="60" as="geometry" />
@@ -305,6 +305,9 @@
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-40" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;参数初始化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="780" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c__QX2BszkjMsdDTUN5y-41" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;精英反向学习获得最优种群&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="320" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
