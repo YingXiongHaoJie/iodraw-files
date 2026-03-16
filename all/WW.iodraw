@@ -255,8 +255,8 @@
         <mxCell id="c__QX2BszkjMsdDTUN5y-8" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;更新追随者位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="580" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c__QX2BszkjMsdDTUN5y-9" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;更新发现者位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="590" width="130" height="80" as="geometry" />
+        <mxCell id="c__QX2BszkjMsdDTUN5y-9" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;更新警戒者位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="580" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
