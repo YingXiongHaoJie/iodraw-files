@@ -249,8 +249,11 @@
         <mxCell id="c__QX2BszkjMsdDTUN5y-5" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;计算适应度并排序获得最优个体及位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="430" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c__QX2BszkjMsdDTUN5y-6" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;计算适应度并排序获得最优个体及位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c__QX2BszkjMsdDTUN5y-6" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;更新发现者位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="580" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="c__QX2BszkjMsdDTUN5y-7" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;更新发现者位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="590" width="200" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
