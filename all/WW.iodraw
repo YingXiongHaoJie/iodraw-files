@@ -285,10 +285,10 @@
           <mxGeometry x="520" y="860" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-27" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;正交邻域探测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="970" width="305" height="60" as="geometry" />
+          <mxGeometry x="170" y="970" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-28" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;正交邻域探测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="980" width="305" height="60" as="geometry" />
+          <mxGeometry x="210" y="1070" width="305" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
