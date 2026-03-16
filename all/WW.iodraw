@@ -265,7 +265,7 @@
           <mxGeometry x="187.5" y="670" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-13" value="阈值判断&lt;div&gt;（迭代次数或收敛精度）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="720" width="240" height="80" as="geometry" />
+          <mxGeometry x="620" y="870" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="c__QX2BszkjMsdDTUN5y-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="610" width="540" height="310" as="geometry" />
