@@ -306,6 +306,9 @@
         <mxCell id="c__QX2BszkjMsdDTUN5y-39" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;位置评估与边界控制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="875" width="360" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eX5lniYLBWuq_SYYDVCF-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;对麻雀位置进行t分布变异，相较变异前优秀则更新&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="670" width="340" height="105" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
