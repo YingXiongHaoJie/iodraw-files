@@ -94,10 +94,10 @@
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-33" value="测向天线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="233" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HfS6KVf2aBE1LIEuC4KR-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=9.193548387096774;endSize=6.403225806451613;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="268" as="sourcePoint" />
-            <mxPoint x="570" y="267.86" as="targetPoint" />
+            <mxPoint x="480" y="255.14" as="sourcePoint" />
+            <mxPoint x="430" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
