@@ -97,8 +97,8 @@
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-43" value="校正输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="465" y="225" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-45" value="七通道输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="272.5" width="85" height="30" as="geometry" />
+        <mxCell id="HfS6KVf2aBE1LIEuC4KR-45" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;七通道输出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="272.5" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -111,6 +111,9 @@
             <mxPoint x="435" y="287.36" as="sourcePoint" />
             <mxPoint x="485" y="287.36" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HfS6KVf2aBE1LIEuC4KR-49" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;七通道输出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="282.5" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
