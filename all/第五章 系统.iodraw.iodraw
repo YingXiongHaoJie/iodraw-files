@@ -219,10 +219,10 @@
           <mxGeometry x="550" y="50" width="77.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-118" value="上位机平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="604" y="50" width="36" height="120" as="geometry" />
+          <mxGeometry x="620" y="50" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-122" value="天线控制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="328" width="85" height="30" as="geometry" />
+          <mxGeometry x="680" y="240" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
