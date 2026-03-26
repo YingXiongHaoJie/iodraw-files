@@ -164,13 +164,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="50" width="80" height="50" as="geometry" />
+          <mxGeometry x="400" y="50" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-79" value="PL&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="63.5" width="70" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="50" width="80" height="50" as="geometry" />
+          <mxGeometry x="450" y="50" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-82" value="ZYNQ平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="386.25" y="116.75" width="117.5" height="35" as="geometry" />
@@ -191,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-77" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;AXI&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="54.25" width="120" height="35" as="geometry" />
+          <mxGeometry x="590" y="58.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="HfS6KVf2aBE1LIEuC4KR-65">
           <mxGeometry relative="1" as="geometry">
