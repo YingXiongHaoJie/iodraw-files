@@ -1,6 +1,6 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Ui05yNvy8fXaGf12E1r7">
-    <mxGraphModel dx="1152" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="669" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,48 +214,6 @@
             <mxPoint x="440" y="89.25" as="sourcePoint" />
             <mxPoint x="470" y="89.25" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="68" y="248" width="240" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-96" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="70" y="68" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-97" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="128" y="143" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-98" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="72" y="117" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-99" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="146" y="119" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-100" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="78" y="86" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-101" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="142" y="86" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-102" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="114" y="68" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-103" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="89" y="142" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-104" value="测向天线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="20" y="60" width="25" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="175" y="60" width="85" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-106" value="校正输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="187.5" y="68.5" width="60" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-107" value="阵列输出" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="175" y="99.25" width="85" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-108" value="天线控制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="175" y="140" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
