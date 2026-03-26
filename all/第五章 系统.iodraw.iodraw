@@ -157,8 +157,8 @@
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-75" value="ADRV9009收发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="282.5" y="116.75" width="117.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-77" value="ZYNQ平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="240" width="120" height="35" as="geometry" />
+        <mxCell id="HfS6KVf2aBE1LIEuC4KR-77" value="AXI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="89.25" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="50" width="80" height="50" as="geometry" />
