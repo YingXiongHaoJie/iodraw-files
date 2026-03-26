@@ -224,11 +224,8 @@
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-122" value="天线控制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="680" y="240" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-123" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="263.5" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-124" value="RJ45" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="271" width="46" height="35" as="geometry" />
+        <mxCell id="HfS6KVf2aBE1LIEuC4KR-123" value="RJ45" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="51" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
