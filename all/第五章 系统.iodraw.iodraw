@@ -170,7 +170,7 @@
           <mxGeometry x="380" y="63.5" width="70" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="50" width="50" height="50" as="geometry" />
+          <mxGeometry x="550" y="78" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-82" value="ZYNQ平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="386.25" y="116.75" width="117.5" height="35" as="geometry" />
@@ -180,14 +180,14 @@
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-86" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=5.1923076923076925;endSize=3.655769230769231;endWidth=5.155325443786982;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="497.5" y="64.81" as="sourcePoint" />
-            <mxPoint x="457.5" y="64.62" as="targetPoint" />
+            <mxPoint x="700" y="142.19" as="sourcePoint" />
+            <mxPoint x="660" y="142" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-87" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=5.1923076923076925;endSize=3.655769230769231;endWidth=5.155325443786982;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="462.5" y="85.81" as="sourcePoint" />
-            <mxPoint x="502.5" y="86" as="targetPoint" />
+            <mxPoint x="665" y="163.19" as="sourcePoint" />
+            <mxPoint x="705" y="163.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-77" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;AXI&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
