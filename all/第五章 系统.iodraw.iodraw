@@ -212,11 +212,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-92" value="ADRV9009收发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="292.5" y="126.75" width="117.5" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-93" value="射频处理平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="195" y="310" width="305" height="26.75" as="geometry" />
+          <mxGeometry x="282.5" y="148" width="277.5" height="26.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
