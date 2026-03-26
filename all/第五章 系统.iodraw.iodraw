@@ -137,13 +137,13 @@
           <mxGeometry x="555" y="358" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="282.5" y="50" width="117.5" height="140" as="geometry" />
+          <mxGeometry x="282.5" y="50" width="117.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-65" value="校正输出" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="282.5" y="51" width="85" height="25" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="50" width="160" height="140" as="geometry" />
+          <mxGeometry x="400" y="50" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -177,6 +177,9 @@
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-81" value="PS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="455" y="72" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HfS6KVf2aBE1LIEuC4KR-82" value="ZYNQ平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="125" width="117.5" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
