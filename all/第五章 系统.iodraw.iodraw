@@ -67,6 +67,9 @@
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="690" width="10" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="HfS6KVf2aBE1LIEuC4KR-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HfS6KVf2aBE1LIEuC4KR-20" target="HfS6KVf2aBE1LIEuC4KR-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="540" width="10" height="20" as="geometry" />
         </mxCell>
@@ -92,7 +95,10 @@
           <mxGeometry x="264" y="319" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-33" value="测向天线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="70" width="60" height="30" as="geometry" />
+          <mxGeometry x="390" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HfS6KVf2aBE1LIEuC4KR-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="640" width="10" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
