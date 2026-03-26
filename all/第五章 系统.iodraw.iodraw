@@ -126,8 +126,8 @@
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="324.86" as="sourcePoint" />
-            <mxPoint x="660" y="324.86" as="targetPoint" />
+            <mxPoint x="545" y="74.76000000000002" as="sourcePoint" />
+            <mxPoint x="595" y="74.76000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -180,12 +180,6 @@
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-82" value="ZYNQ平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="416.25" y="115" width="117.5" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-83" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="334.86" as="sourcePoint" />
-            <mxPoint x="670" y="334.86" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
