@@ -206,6 +206,12 @@
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-123" value="RJ45" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="51" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="HfS6KVf2aBE1LIEuC4KR-125" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=5.1923076923076925;endSize=3.655769230769231;endWidth=5.155325443786982;" edge="1" parent="1" source="HfS6KVf2aBE1LIEuC4KR-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="62.89" as="sourcePoint" />
+            <mxPoint x="560" y="62.89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
