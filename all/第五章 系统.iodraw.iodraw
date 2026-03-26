@@ -169,6 +169,9 @@
             <mxPoint x="291" y="104.86000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HfS6KVf2aBE1LIEuC4KR-77" value="ADRV9009收发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="165" width="117.5" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
