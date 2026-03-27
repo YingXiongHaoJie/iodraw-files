@@ -68,7 +68,7 @@
           <mxGeometry x="524" y="140" width="25" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-163" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="589" y="250" width="161" height="150" as="geometry" />
+          <mxGeometry x="589" y="250" width="161" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-168" value="指令下发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="601.5" y="296" width="58" height="15.75" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="601.5" y="326.25" width="58" height="15.75" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-172" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="674" y="329" width="58" height="15.75" as="geometry" />
+          <mxGeometry x="674" y="327" width="58" height="15.75" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-173" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=5.1923076923076925;endSize=3.655769230769231;endWidth=5.155325443786982;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
