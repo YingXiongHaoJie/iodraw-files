@@ -49,12 +49,6 @@
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-143" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371.5" y="260" width="217.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-144" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="371.5" y="260" width="117.5" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="HfS6KVf2aBE1LIEuC4KR-146" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="489" y="260" width="100" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-147" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="379" y="272.76" as="sourcePoint" />
@@ -119,24 +113,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-175" value="校正输出" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="371.5" y="261" width="85" height="25" as="geometry" />
+          <mxGeometry x="306.5" y="480" width="85" height="25" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-176" value="射频接收" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="371.5" y="302.5" width="85" height="25" as="geometry" />
+          <mxGeometry x="306.5" y="521.5" width="85" height="25" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-177" value="ADRV9009收发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="371.5" y="326.75" width="117.5" height="35" as="geometry" />
+          <mxGeometry x="306.5" y="545.75" width="117.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-178" value="ZYNQ平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="481.5" y="325" width="117.5" height="35" as="geometry" />
+          <mxGeometry x="416.5" y="544" width="117.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-179" value="射频处理平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="371.5" y="360" width="217.5" height="20" as="geometry" />
+          <mxGeometry x="306.5" y="579" width="217.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HfS6KVf2aBE1LIEuC4KR-180" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=5.1923076923076925;endSize=3.655769230769231;endWidth=5.155325443786982;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="529" y="299.25" as="sourcePoint" />
-            <mxPoint x="559" y="299.25" as="targetPoint" />
+            <mxPoint x="464" y="518.25" as="sourcePoint" />
+            <mxPoint x="494" y="518.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
